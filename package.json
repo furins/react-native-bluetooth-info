@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/dariyd/react-native-bluetooth-info#readme",
   "peerDependencies": {
-    "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react": ">=16.8.3",
+    "react-native": ">=0.59.4"
   }
 }
