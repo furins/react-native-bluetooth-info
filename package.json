@@ -1,14 +1,14 @@
 {
   "name": "react-native-bluetooth-info",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "React Native native module for checking Bluetooth state with event listener. Supports both iOS and android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dariyd/react-native-bluetooth-info.git"
+    "url": "git+https://github.com/furins/react-native-bluetooth-info.git"
   },
   "keywords": [
     "react-native",
@@ -17,12 +17,12 @@
     "connection listener",
     "connection info"
   ],
-  "author": "Dariy Dzyndra",
+  "author": "Stefano Furin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dariyd/react-native-bluetooth-info/issues"
+    "url": "https://github.com/furins/react-native-bluetooth-info/issues"
   },
-  "homepage": "https://github.com/dariyd/react-native-bluetooth-info#readme",
+  "homepage": "https://github.com/furins/react-native-bluetooth-info#readme",
   "peerDependencies": {
     "react": ">=16.8.3",
     "react-native": ">=0.59.4"
